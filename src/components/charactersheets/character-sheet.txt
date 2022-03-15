@@ -1,3 +1,9 @@
-mages - robes, spells, smack, mage-shield 
-thief - leather, throw, hide, stab
+mages - robes, staff, spells, smack, mage-shield 
+thief - leather, dagger, throw, hide, stab
 warrior - steel, sword, guard, attack, taunt
+healer - robes, staff, aid, heal, revive
+
+
+
+
+Create separate tables for the class and the enemies to allow for a foriegn key to be used
