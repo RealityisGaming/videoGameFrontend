@@ -1,0 +1,3 @@
+mages - robes, spells, smack, mage-shield 
+thief - leather, throw, hide, stab
+warrior - steel, sword, guard, attack, taunt
