@@ -7,7 +7,7 @@ class Hero {
     }
     
     renderHero(){
-        console.log(1`
+        console.log(`
         Race: ${this.race}\n
         Class: ${this.job}\n
         Past: ${this.backGround}\n

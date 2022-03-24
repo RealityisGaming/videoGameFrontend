@@ -1,28 +1,16 @@
-html {
-    font-size: 62.5%; // 1rem is 10px
-}
-
-*,
-*::after,
-*::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: inherit;
-    font-family: 'montserrat';
-}
-
-body {
-    overflow-x: hidden;
-    font-weight: normal;
-
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-    -webkit-tap-highlight-color: transparent;
-}
-
-.app {
-    margin-top: 2rem;
-    display: grid;
-    justify-items: center;
-}
+@import "./base.scss";
+@import "./auth.scss";
+@import "./town-view.scss";
+@import "./navigation.scss";
+@import "./character-sheet.scss";
+@import "./enemy-sheet.scss";
+@import "./slime.scss";
+@import "./goblins.scss";
+@import "./lizdaran.scss";
+@import "./river.scss";
+@import "./woods.scss";
+@import "./fields.scss";
+@import "./woods.scss";
+@import "./kitchen.scss";
+@import "./tavern.scss";
+@import "./store.scss";

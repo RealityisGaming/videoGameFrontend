@@ -1,0 +1,15 @@
+.auth-container {
+    height: 531px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+
+    .left {
+        background-size: cover;
+    }
+
+    .right {
+        color: red;
+    }
+}

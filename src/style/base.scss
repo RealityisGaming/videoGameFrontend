@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+    background-color: dimgray;
+}
+
+.homepage {
+    display: grid;
+    justify-content: center;
+    background-color: cornflowerblue;
+
+    .forms {
+        display: flex;
+        flex-direction: column;
+
+        input {
+            margin: 10px;
+        }
+
+    }
+    
+    button {
+        display: flex;
+        width: 120px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
